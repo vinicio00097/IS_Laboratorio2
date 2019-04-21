@@ -1,0 +1,2 @@
+server:
+  port: ${SV_PORT:9008}
